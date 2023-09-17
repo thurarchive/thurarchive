@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Fajri Fathur Rahman**.\
+
+I'm an undergraduate student majoring in **Information Technology** Faculty of Computer Science in President University
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fajrifathurrahman/)ku ya.
