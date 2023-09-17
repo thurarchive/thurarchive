@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Fajri Fathur Rahman**.\
+Perkenalkan nama saya **Fajri Fathur Rahman**.
 
 I'm an undergraduate student majoring in **Information Technology** Faculty of Computer Science in President University
 
